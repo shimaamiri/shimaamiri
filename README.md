@@ -16,6 +16,15 @@ My experience spans autonomous systems, robot simulation, control, computer visi
 
 **Embedded & Systems:** CAN bus · Raspberry Pi · Arduino · Linux · Docker · Git
 
+### Technical Skills
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Python, C++, MATLAB, JavaScript, SQL |
+| **Robotics & Simulation** | ROS/ROS2, Gazebo, MoveIt, SLAM, URDF |
+| **AI & Computer Vision** | TensorFlow, Keras, OpenCV |
+| **Systems & Embedded** | CAN bus, Raspberry Pi, Arduino, Linux, Docker, Git |
+
 ### 🚀 Selected Areas of Work
 
 - **Robot Manipulation & Control:** ROS2-based integration, simulation, and low-level control of robotic manipulators.
