@@ -111,7 +111,7 @@ A selection of my robotics, AI, and software projects.
 | Project | Description | Technologies |
 |---|---|---|
 | [Multimodal Mobile Robot](https://github.com/shimaamiri/RT_MoultimodalRobot) | Mobile robotics project from my robotics coursework | ROS, Robotics |
-| [Experimental Robotics](https://github.com/shimaamiri/Experimental_Assignment1) | Experimental robotics coursework and implementation | C++, Robotics |
+| [Vision-Based-Navigation-with-ROSbot-and-ArUco-Markers](https://github.com/shimaamiri/Vision-Based-Navigation-with-ROSbot-and-ArUco-Markers) | Experimental robotics coursework and implementation | C++, Robotics |
 | [UAV–UGV Simulation](https://github.com/shimaamiri/VR_UAV_UGV) | Simulation of an integrated unmanned aerial and ground robotic system | Unreal Engine, UAV, UGV |
 | [Pepper Robot Interaction](https://github.com/shimaamiri/Social_Robots_Assignment_Yoga_With_Pepper) | Human–robot interaction using the Pepper social robot | Python, Choregraphe |
 | [MindMate AI Companion](https://github.com/shimaamiri/MindMate-AI-Mental-Wellness-Companion) | AI-powered wellness companion developed for a course capstone | React, Vite, Gemini |
