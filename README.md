@@ -9,8 +9,7 @@
 
 📍 Genoa, Italy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shima-amiri-fard-a11b88138)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/shimaamiri)
+[🔗 LinkedIn](https://www.linkedin.com/in/shima-amiri-fard-a11b88138) · [💻 GitHub](https://github.com/shimaamiri) · [✉️ Email](mailto:amif.shima@gmail.com)
 
 </div>
 
@@ -140,22 +139,10 @@ K. N. Toosi University of Technology, Iran
 
 ## 🏆 Highlights
 
-- 🥉 **4th Place — ITADATA 2025 Hackathon**, national Data Science & AI competition
+- 🏅 **4th Place — ITADATA 2025 Hackathon**, national Data Science & AI competition
 - 🔬 Master's thesis research at IIT's Advanced Robotics Lab
 - 🤖 Hands-on experience with mobile robots, manipulators, and social robots
 - 🔧 Background connecting mechanical engineering, control, robotics, and software
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimaamiri&layout=compact&hide_border=true&theme=transparent" alt="Most used languages across public GitHub repositories" />
-
-</div>
-
-<sub>GitHub language statistics reflect public repository code, not overall technical proficiency.</sub>
 
 ---
 
