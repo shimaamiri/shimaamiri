@@ -1,10 +1,10 @@
 # Hi, I'm Shima! 👋
 
-### Robotics & Software Engineer
+### Robotics Engineer
 
 I'm a Robotics Engineer based in Genoa, Italy, with a multidisciplinary background in **robotics, software development, artificial intelligence, and mechanical engineering**.
 
-My experience spans autonomous systems, robot simulation, control, computer vision, machine learning, and professional software development. I enjoy working at the intersection of intelligent algorithms, software, and real-world engineering systems.
+My experience spans autonomous systems, robot simulation, control, computer vision, machine learning, and software development. I enjoy working at the intersection of intelligent algorithms, software, and real-world engineering systems.
 
 ### 🛠️ Technical Skills
 
@@ -26,7 +26,7 @@ My experience spans autonomous systems, robot simulation, control, computer visi
 
 ### 📌 Featured Projects
 
-*Selected projects and technical demonstrations will be added here as the repositories are updated.*
+
 
 ### 📫 Connect With Me
 
